@@ -1,4 +1,9 @@
 ![Icon](https://raw.github.com/distantcam/ConfigureAwait/master/img/project_icon.png)
+### **NOTE:** The ConfigureAwait is **not maintained** anymore. 
+See discussion  [Package unlisted on Nuget #15](https://github.com/distantcam/ConfigureAwait/issues/15) for more details.
+
+
+
 
 ### This is an add-in for [Fody](https://github.com/Fody/Fody/) 
 
